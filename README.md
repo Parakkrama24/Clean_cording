@@ -44,4 +44,39 @@ expensive to troubleshoot of bug fix
 Clean Code</h3>
 
 <p>Clean code is code that is easy to 
-understand and easy to change.We are writing codes but some time it can't understant we salf .There for we should maintaion clean code consepts</p>
+understand and easy to change.We are writing codes but some time it can't understant we salf .There for we should maintaion clean code consepts
+</p>
+
+<li>
+Speeds up comprehension, saving time
+</li>
+<li>
+Improves maintainability by reducing 
+complexity
+</li>
+<li>
+ Facilitates better collaboration among 
+developers
+</li>
+<li>
+Fewer bugs and easier debugging
+</li>
+<li>
+Provides structured codebase for future 
+scalability
+</li>
+
+
+<h3>How to write Clearn code</h3>
+
+<h4>Naming Conventions</h4>
+
+<p>When programming we are using deffernt naming convetions .( Cammel caseing ,pascal case,Sanke case..) But in bad programming practise do not use any programming naming convention or meaning full naming conventins. 
+
+
+<h5>Bad exsample<h5>
+
+
+<p>In this picture we can see variable naming covention is very bad. This is a very simple programme. But we are working in large scale projects that time meaning full naming convetion is very important. Becouse our code is reading many peaple not only you.They should understand easily.</p>
+
+ </p>
