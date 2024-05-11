@@ -21,3 +21,27 @@
     <p>Clean and quality code can be easily extended and modified.</p>
   </li>
 </ul>
+
+<h3>What does poor Code Quality?</h3>
+
+<li>
+often leads to technical debt.
+</li>
+<li>
+increased maintenance costs
+</li>
+<li>
+slower software performance
+</li>
+<li>
+higher chance of bugs or crashes.
+</li>
+<li>
+expensive to troubleshoot of bug fix
+</li>
+
+<h3>Importance of Writing
+Clean Code</h3>
+
+<p>Clean code is code that is easy to 
+understand and easy to change.We are writing codes but some time it can't understant we salf .There for we should maintaion clean code consepts</p>
