@@ -76,6 +76,8 @@ scalability
 
 <h5>Bad exsample<h5>
 
+![Bad exsample](image.png)
+
 
 <p>In this picture we can see variable naming covention is very bad. This is a very simple programme. But we are working in large scale projects that time meaning full naming convetion is very important. Becouse our code is reading many peaple not only you.They should understand easily.</p>
 
