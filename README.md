@@ -71,14 +71,18 @@ scalability
 
 <h4>Naming Conventions</h4>
 
-<p>When programming we are using deffernt naming convetions .( Cammel caseing ,pascal case,Sanke case..) But in bad programming practise do not use any programming naming convention or meaning full naming conventins. 
+<p>When programming we are using deffernt naming convetions .( Cammel caseing ,pascal case,Sanke case..) But in bad programming practise do not use any programming naming convention or meaning full naming conventins.  </p>
 
 
-<h5>Bad exsample<h5>
+<h5>Bad exsample</h5>
 
 ![Bad exsample](image.png)
 
 
 <p>In this picture we can see variable naming covention is very bad. This is a very simple programme. But we are working in large scale projects that time meaning full naming convetion is very important. Becouse our code is reading many peaple not only you.They should understand easily.</p>
 
- </p>
+<h5>Good exsample</h5>
+
+ ![Good exsample](image-1.png)
+
+ <p>In this exsample we can see what is the perpose of that code lines. That variables represet what type of values they have. There for any person can understand easilly. Otherwise this is a very simple exsample. But some times developers are working in very large projects.That time undertanderbale naming conventions are very usefull.We are working not only alone. Most of the time we are working in teams. Every one should understand that type of good codes easily.There for it is very impotant.  </p>

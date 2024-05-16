@@ -4,11 +4,11 @@ using namespace std;
 
 int main(){
 
-    int x= 100;
-    float y=5;
-    float results = x/y;
+    int diatance= 100;
+    float speed=5;
+    float time = diatance/speed;
 
-    cout <<results<< endl;
+    cout <<time<< endl;
 
     return 0;
 }
