@@ -148,4 +148,4 @@ To generate documentation (if applicable).
 
 
 <h5>Good exsample</h5>
-![goodComments.png](image-2.png)
+<image src="image-2.png"/>
