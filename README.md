@@ -69,7 +69,7 @@ scalability
 
 <h3>How to write Clearn code</h3>
 
-<h4>Naming Conventions</h4>
+<h4>1. Naming Conventions</h4>
 
 <p>When programming we are using deffernt naming convetions .( Cammel caseing ,pascal case,Sanke case..) But in bad programming practise do not use any programming naming convention or meaning full naming conventins.  </p>
 
@@ -86,3 +86,21 @@ scalability
  ![Good exsample](image-1.png)
 
  <p>In this exsample we can see what is the perpose of that code lines. That variables represet what type of values they have. There for any person can understand easilly. Otherwise this is a very simple exsample. But some times developers are working in very large projects.That time undertanderbale naming conventions are very usefull.We are working not only alone. Most of the time we are working in teams. Every one should understand that type of good codes easily.There for it is very impotant.  </p>
+
+ <h4>2. Functions </h4>
+
+ <p>In programming we are use functions.When using functions we can sperate our code. When we are using same function to write all our code we cannot understamd that type code. Therefore we try to use functions as suatable. When uaing functions we can consider this conditions.Thease are not rules. Thease are programming best practices.</p>
+
+
+ <span>
+ Small and Focused: Does one thing and does it well
+ </span>
+ <span>
+ Concise: Preferably less than 20 lines
+ </span>
+ <span>
+  Minimal Arguments: Functions should have a minimum number of arguments
+ </span>
+ <span>
+ No Side Effects: Functions should not modify argument values
+ </span>
