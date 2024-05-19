@@ -102,16 +102,49 @@ scalability
  <br/>
  <li>
   Minimal Arguments: Functions should have a minimum number of arguments.<br/>
-  Try to use minimal argumentes.It is very usefull for extendable programming.
+  Try to use minimal argumentes.Use maximum 5 arguments.It is very usefull for extendable programming.
  </li>
  <br/>
  <li>
- No Side Effects: Functions should not modify argument values.<br/>
-
+  No Side Effects: Functions should not modify argument values.<br/>
  </li>
  <li>
   Throw Exceptions: For unexpected situations instead of returning error codes.
  </li>
  <li>
- Meaningful Error Messages: Errors should be clear and provide context.
+  Meaningful Error Messages: Errors should be clear and provide context.
  </li>
+
+<h4>
+3.Comments
+</h4>
+
+<p>This is a most valuable thing for readable and undersatable cording.Use comments suatable evey places.Use comments to , </p>
+
+ <li>
+To explain intent or why the code is needed.
+ </li>
+ <li>
+To clarify complex code or logic.
+ </li>
+ <li>
+To generate documentation (if applicable).
+ </li>
+
+ <p>Do not use comments to , </p>
+
+  <li>
+ When code could be explained by variable/function names (clean code).
+ </li>
+  <li>
+ As an excuse for bad code.
+ </li>
+  <li>
+ To describe the obvious.
+ </li>
+
+<h5>Bad exsample</h5>
+![Bad exsample](image-3.png)
+
+<h5>Good exsample</h5>
+ ![Good exsamplet](image-2.png)
