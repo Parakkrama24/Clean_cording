@@ -144,7 +144,8 @@ To generate documentation (if applicable).
  </li>
 
 <h5>Bad exsample</h5>
-![Good exsample](image-1.png)
+![image-3](https://github.com/Parakkrama24/Clean_cording/assets/110714055/9abcb128-2213-4d1d-982d-cd92dffbe7a3)
+
 
 <h5>Good exsample</h5>
-<image image-2.png/>
+![goodComments.png](image-2.png)
