@@ -92,15 +92,21 @@ scalability
  <p>In programming we are use functions.When using functions we can sperate our code. When we are using same function to write all our code we cannot understamd that type code. Therefore we try to use functions as suatable. When uaing functions we can consider this conditions.Thease are not rules. Thease are programming best practices.</p>
 
 
- <span>
+ <li>
  Small and Focused: Does one thing and does it well
- </span>
- <span>
+ </li>
+ <li>
  Concise: Preferably less than 20 lines
- </span>
- <span>
+ </li>
+ <li>
   Minimal Arguments: Functions should have a minimum number of arguments
- </span>
- <span>
+ </li>
+ <li>
  No Side Effects: Functions should not modify argument values
- </span>
+ </li>
+ <li>
+Throw Exceptions: For unexpected situations instead of returning error codes
+ </li>
+ <li>
+ Meaningful Error Messages: Errors should be clear and provide context
+ </li>
