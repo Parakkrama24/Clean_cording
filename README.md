@@ -147,4 +147,4 @@ To generate documentation (if applicable).
 ![Good exsample](image-1.png)
 
 <h5>Good exsample</h5>
-![goodComments.png](image-2.png)
+<image image-2.png/>
