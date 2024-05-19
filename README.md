@@ -93,20 +93,23 @@ scalability
 
 
  <li>
- Small and Focused: Does one thing and does it well
+ Small and Focused: 
+ <br/>
+ Does one thing and does it well,In best programming prctice , we are using one function for one perpose .That time we can easily handle errors and it is very readiable.
  </li>
  <li>
- Concise: Preferably less than 20 lines
+ Concise: Preferably less than 20 lines.<br/>
+ 
  </li>
  <li>
-  Minimal Arguments: Functions should have a minimum number of arguments
+  Minimal Arguments: Functions should have a minimum number of arguments.
  </li>
  <li>
- No Side Effects: Functions should not modify argument values
+ No Side Effects: Functions should not modify argument values.
  </li>
  <li>
-Throw Exceptions: For unexpected situations instead of returning error codes
+Throw Exceptions: For unexpected situations instead of returning error codes.
  </li>
  <li>
- Meaningful Error Messages: Errors should be clear and provide context
+ Meaningful Error Messages: Errors should be clear and provide context.
  </li>
